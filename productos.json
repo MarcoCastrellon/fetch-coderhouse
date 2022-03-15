@@ -1,0 +1,29 @@
+{
+    "golosinas" : [
+        {
+            "id" : 1,
+            "nombre" : "Caramelos",
+            "precio" : 20
+        },
+        {
+            "id" : 2,
+            "nombre" : "Chocolates",
+            "precio" : 100
+        },
+        {
+            "id" : 3,
+            "nombre" : "Chupetin",
+            "precio" : 40
+        },
+        {
+            "id" : 4,
+            "nombre" : "Alfajor",
+            "precio" : 90
+        },
+        {
+            "id" : 5,
+            "nombre" : "Chicle",
+            "precio" : 30
+        }
+    ]
+}
